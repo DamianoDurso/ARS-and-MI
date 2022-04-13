@@ -1,3 +1,3 @@
 #test untitled code
 
-rnorm(1,10)
+rnorm(1,20)
