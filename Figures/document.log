@@ -1,0 +1,1186 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.21)  14 DEC 2021 14:25
+entering extended mode
+**./document.tex
+(document.tex
+LaTeX2e <2018-12-01>
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
+"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.st
+y"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y"
+Package: babel 2019/06/03 3.32 The Babel package
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
+ef"
+File: switch.def 2019/06/03 3.32 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
+g"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\en
+glish.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
+f"
+File: babel.def 2019/06/03 3.32 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
+.def")
+\bbl@dirlevel=\count90
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+ ("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)) ("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\uni-global.d
+ef"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count91
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
+sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
+sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
+ty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen104
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
+ty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
+ty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks20
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks21
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks22
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/todonotes\todono
+tes.sty"
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.
+sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyva
+l.tex"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvuti
+ls.tex"
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count104
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
+y"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlaye
+r\tikz.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\p
+gf.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
+frcs.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfutil-common.tex"
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen115
+\pgfutil@tempdimb=\dimen116
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfutil-common-lists.tex"))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfutil-latex.def"
+\pgfutil@abb=\box29
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfrcs.code.tex"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revisi
+on.tex")
+Package: pgfrcs 2019/05/09 v3.1.3 (3.1.3)
+))
+Package: pgf 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\p
+gfcore.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\
+pgfsys.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsys.code.tex"
+Package: pgfsys 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen117
+\pgf@y=\dimen118
+\pgf@xa=\dimen119
+\pgf@ya=\dimen120
+\pgf@xb=\dimen121
+\pgf@yb=\dimen122
+\pgf@xc=\dimen123
+\pgf@yc=\dimen124
+\pgf@xd=\dimen125
+\pgf@yd=\dimen126
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count105
+\c@pgf@countb=\count106
+\c@pgf@countc=\count107
+\c@pgf@countd=\count108
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count109
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgf.cfg"
+File: pgf.cfg 2019/05/09 v3.1.3 (3.1.3)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2019/05/09 v3.1.3 (3.1.3)
+)))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlaye
+r\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2019/05/09 v3.1.3 (3.1.3)
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcore.code.tex"
+Package: pgfcore 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+th.code.tex"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thcalc.code.tex"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thutil.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thparser.code.tex"
+\pgfmath@dimen=\dimen127
+\pgfmath@count=\count112
+\pgfmath@box=\box30
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.code.tex"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.basic.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.trigonometric.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.random.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.comparison.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.base.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.round.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.misc.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfunctions.integerarithmetics.code.tex")))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+thfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count113
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfin
+t.code.tex")
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@picminx=\dimen128
+\pgf@picmaxx=\dimen129
+\pgf@picminy=\dimen130
+\pgf@picmaxy=\dimen131
+\pgf@pathminx=\dimen132
+\pgf@pathmaxx=\dimen133
+\pgf@pathminy=\dimen134
+\pgf@pathmaxy=\dimen135
+\pgf@xx=\dimen136
+\pgf@xy=\dimen137
+\pgf@yx=\dimen138
+\pgf@yy=\dimen139
+\pgf@zx=\dimen140
+\pgf@zy=\dimen141
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@path@lastx=\dimen142
+\pgf@path@lasty=\dimen143
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@shorten@end@additional=\dimen144
+\pgf@shorten@start@additional=\dimen145
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count114
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgflinewidth=\dimen146
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@pt@x=\dimen147
+\pgf@pt@y=\dimen148
+\pgf@pt@temp=\dimen149
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfarrowsep=\dimen150
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@max=\dimen151
+\pgf@sys@shading@range@num=\count115
+\pgf@shadingcount=\count116
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfexternal@startupbox=\box34
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer
+\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
+fmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfnodeparttextbox=\box35
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
+fmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibilit
+y\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2019/05/09 v3.1.3 (3.1.3)
+\pgf@nodesepstart=\dimen152
+\pgf@nodesepend=\dimen153
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibilit
+y\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2019/05/09 v3.1.3 (3.1.3)
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
+ffor.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pg
+fkeys.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgfkeys.code.tex"))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath
+.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+th.code.tex"))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\
+pgffor.code.tex"
+Package: pgffor 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfma
+th.code.tex")
+\pgffor@iter=\dimen154
+\pgffor@skip=\dimen155
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz\tikz.code.tex"
+Package: tikz 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\
+pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgf@plot@mark@count=\count117
+\pgfplotmarksize=\dimen156
+)
+\tikz@lastx=\dimen157
+\tikz@lasty=\dimen158
+\tikz@lastxsaved=\dimen159
+\tikz@lastysaved=\dimen160
+\tikzleveldistance=\dimen161
+\tikzsiblingdistance=\dimen162
+\tikz@figbox=\box36
+\tikz@figbox@bg=\box37
+\tikz@tempbox=\box38
+\tikz@tempbox@bg=\box39
+\tikztreelevel=\count118
+\tikznumberofchildren=\count119
+\tikznumberofcurrentchild=\count120
+\tikz@fig@count=\count121
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pg
+fmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/05/09 v3.1.3 (3.1.3)
+\pgfmatrixcurrentrow=\count122
+\pgfmatrixcurrentcolumn=\count123
+\pgf@matrix@numberofcolumns=\count124
+)
+\tikz@expandcount=\count125
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz/libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz/libraries\tikzlibraryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendla
+yer/tikz/libraries\tikzlibraryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2019/05/09 v3.1.3 (3.1.3)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\
+pgflibraryfadings.code.tex"
+File: pgflibraryfadings.code.tex 2019/05/09 v3.1.3 (3.1.3)
+)))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count126
+\calc@Bcount=\count127
+\calc@Adimen=\dimen163
+\calc@Bdimen=\dimen164
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count128
+\calc@Cskip=\skip50
+)
+\c@@todonotes@numberoftodonotes=\count129
+) ("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\ragged2e.st
+y"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip51
+\RaggedLeftLeftskip=\skip52
+\RaggedRightLeftskip=\skip53
+\CenteringRightskip=\skip54
+\RaggedLeftRightskip=\skip55
+\RaggedRightRightskip=\skip56
+\CenteringParfillskip=\skip57
+\RaggedLeftParfillskip=\skip58
+\RaggedRightParfillskip=\skip59
+\JustifyingParfillskip=\skip60
+\CenteringParindent=\skip61
+\RaggedLeftParindent=\skip62
+\RaggedRightParindent=\skip63
+\JustifyingParindent=\skip64
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathto
+ols.sty"
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetu
+p.sty"
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count130
+\l_MT_multwidth_dim=\dimen165
+\origjot=\skip65
+\l_MT_shortvdotswithinadjustabove_dim=\dimen166
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen167
+\l_MT_above_intertext_sep=\dimen168
+\l_MT_below_intertext_sep=\dimen169
+\l_MT_above_shortintertext_sep=\dimen170
+\l_MT_below_shortintertext_sep=\dimen171
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktab
+s.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen172
+\lightrulewidth=\dimen173
+\cmidrulewidth=\dimen174
+\belowrulesep=\dimen175
+\belowbottomsep=\dimen176
+\aboverulesep=\dimen177
+\abovetopsep=\dimen178
+\cmidrulesep=\dimen179
+\cmidrulekern=\dimen180
+\defaultaddspace=\dimen181
+\@cmidla=\count131
+\@cmidlb=\count132
+\@aboverulesep=\dimen182
+\@belowrulesep=\dimen183
+\@thisruleclass=\count133
+\@lastruleclass=\count134
+\@thisrulewidth=\dimen184
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
+w.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip66
+\multirow@cntb=\count135
+\multirow@dima=\skip67
+\bigstrutjot=\dimen185
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\longtable.
+sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)+ FMi change
+\LTleft=\skip68
+\LTright=\skip69
+\LTpre=\skip70
+\LTpost=\skip71
+\LTchunksize=\count136
+\LTcapwidth=\dimen186
+\LT@head=\box40
+\LT@firsthead=\box41
+\LT@foot=\box42
+\LT@lastfoot=\box43
+\LT@cols=\count137
+\LT@rows=\count138
+\c@LT@tables=\count139
+\c@LT@chunks=\count140
+\LT@p@ftn=\toks39
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotatin
+g.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count141
+\rotFPtop=\skip72
+\rotFPbot=\skip73
+\rot@float@box=\box44
+\rot@mess@toks=\toks40
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.s
+ty"
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen187
+\ar@mcellbox=\box45
+\extrarowheight=\dimen188
+\NC@list=\toks41
+\extratabsurround=\skip74
+\backup@length=\skip75
+\ar@cellbox=\box46
+)
+\TX@col@width=\dimen189
+\TX@old@table=\dimen190
+\TX@old@col=\dimen191
+\TX@target=\dimen192
+\TX@delta=\dimen193
+\TX@cols=\count142
+\TX@ftn=\toks42
+) ("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xr.sty"
+Package: xr 2019/01/05 v5.04 eXternal References (DPC)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/footmisc\footmis
+c.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks43
+\footnotemargin=\dimen194
+\c@pp@next@reset=\count143
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
+.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
+s.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lineno\lineno.st
+y"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count144
+\output=\toks44
+\linenoprevgraf=\count145
+\linenumbersep=\dimen195
+\linenumberwidth=\dimen196
+\c@linenumber=\count146
+\c@pagewiselinenumber=\count147
+\c@LN@truepage=\count148
+\c@internallinenumber=\count149
+\c@internallinenumbers=\count150
+\quotelinenumbersep=\dimen197
+\bframerule=\dimen198
+\bframesep=\dimen199
+\bframebox=\box47
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count151
+\float@exts=\toks45
+\float@box=\box48
+\@float@everytoks=\toks46
+\@floatcapt=\box49
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjust
+box.sty"
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjcal
+c.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\trimcl
+ip.sty"
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/collectbox\colle
+ctbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box50
+)
+\tc@llx=\dimen256
+\tc@lly=\dimen257
+\tc@urx=\dimen258
+\tc@ury=\dimen259
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tc-pdf
+tex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen260
+\adjbox@Height=\dimen261
+\adjbox@Depth=\dimen262
+\adjbox@Totalheight=\dimen263
+\adjbox@pwidth=\dimen264
+\adjbox@pheight=\dimen265
+\adjbox@pdepth=\dimen266
+\adjbox@ptotalheight=\dimen267
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\ifoddp
+age.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count152
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\varwidt
+h.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box51
+\sift@deathcycles=\count153
+\@vwid@loff=\dimen268
+\@vwid@roff=\dimen269
+))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumite
+m.sty"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip76
+\enit@outerparindent=\dimen270
+\enit@toks=\toks47
+\enit@inbox=\box52
+\enit@count@id=\count154
+\enitdp@description=\count155
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpars
+e\xparse.sty"
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
+ty"
+Package: expl3 2019-05-28 L3 programming layer (loader) 
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
+ode.tex"
+Package: expl3 2019-05-28 L3 programming layer (code)
+\c_max_int=\count156
+\l_tmpa_int=\count157
+\l_tmpb_int=\count158
+\g_tmpa_int=\count159
+\g_tmpb_int=\count160
+\g__kernel_prg_map_int=\count161
+\c__ior_term_ior=\count162
+\c_log_iow=\count163
+\l_iow_line_count_int=\count164
+\l__iow_line_target_int=\count165
+\l__iow_one_indent_int=\count166
+\l__iow_indent_int=\count167
+\c_zero_dim=\dimen271
+\c_max_dim=\dimen272
+\l_tmpa_dim=\dimen273
+\l_tmpb_dim=\dimen274
+\g_tmpa_dim=\dimen275
+\g_tmpb_dim=\dimen276
+\c_zero_skip=\skip77
+\c_max_skip=\skip78
+\l_tmpa_skip=\skip79
+\l_tmpb_skip=\skip80
+\g_tmpa_skip=\skip81
+\g_tmpb_skip=\skip82
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count168
+\l__intarray_loop_int=\count169
+\c__intarray_sp_dim=\dimen277
+\g__intarray_font_int=\count170
+\c__fp_leading_shift_int=\count171
+\c__fp_middle_shift_int=\count172
+\c__fp_trailing_shift_int=\count173
+\c__fp_big_leading_shift_int=\count174
+\c__fp_big_middle_shift_int=\count175
+\c__fp_big_trailing_shift_int=\count176
+\c__fp_Bigg_leading_shift_int=\count177
+\c__fp_Bigg_middle_shift_int=\count178
+\c__fp_Bigg_trailing_shift_int=\count179
+\c__kernel_randint_max_int=\count180
+\g__fp_array_int=\count181
+\l__fp_array_loop_int=\count182
+\l__sort_length_int=\count183
+\l__sort_min_int=\count184
+\l__sort_top_int=\count185
+\l__sort_max_int=\count186
+\l__sort_true_max_int=\count187
+\l__sort_block_int=\count188
+\l__sort_begin_int=\count189
+\l__sort_end_int=\count190
+\l__sort_A_int=\count191
+\l__sort_B_int=\count192
+\l__sort_C_int=\count193
+\l__tl_analysis_normal_int=\count194
+\l__tl_analysis_index_int=\count195
+\l__tl_analysis_nesting_int=\count196
+\l__tl_analysis_type_int=\count197
+\l__regex_internal_a_int=\count198
+\l__regex_internal_b_int=\count199
+\l__regex_internal_c_int=\count266
+\l__regex_balance_int=\count267
+\l__regex_group_level_int=\count268
+\l__regex_mode_int=\count269
+\c__regex_cs_in_class_mode_int=\count270
+\c__regex_cs_mode_int=\count271
+\l__regex_catcodes_int=\count272
+\l__regex_default_catcodes_int=\count273
+\c__regex_catcode_D_int=\count274
+\c__regex_catcode_S_int=\count275
+\c__regex_catcode_L_int=\count276
+\c__regex_catcode_O_int=\count277
+\c__regex_catcode_A_int=\count278
+\c__regex_all_catcodes_int=\count279
+\l__regex_show_lines_int=\count280
+\l__regex_min_state_int=\count281
+\l__regex_max_state_int=\count282
+\l__regex_left_state_int=\count283
+\l__regex_right_state_int=\count284
+\l__regex_capturing_group_int=\count285
+\l__regex_min_pos_int=\count286
+\l__regex_max_pos_int=\count287
+\l__regex_curr_pos_int=\count288
+\l__regex_start_pos_int=\count289
+\l__regex_success_pos_int=\count290
+\l__regex_curr_char_int=\count291
+\l__regex_curr_catcode_int=\count292
+\l__regex_last_char_int=\count293
+\l__regex_case_changed_char_int=\count294
+\l__regex_curr_state_int=\count295
+\l__regex_step_int=\count296
+\l__regex_min_active_int=\count297
+\l__regex_max_active_int=\count298
+\l__regex_replacement_csnames_int=\count299
+\l__regex_match_count_int=\count300
+\l__regex_min_submatch_int=\count301
+\l__regex_submatch_int=\count302
+\l__regex_zeroth_submatch_int=\count303
+\g__regex_trace_regex_int=\count304
+\c_empty_box=\box53
+\l_tmpa_box=\box54
+\l_tmpb_box=\box55
+\g_tmpa_box=\box56
+\g_tmpb_box=\box57
+\l__box_top_dim=\dimen278
+\l__box_bottom_dim=\dimen279
+\l__box_left_dim=\dimen280
+\l__box_right_dim=\dimen281
+\l__box_top_new_dim=\dimen282
+\l__box_bottom_new_dim=\dimen283
+\l__box_left_new_dim=\dimen284
+\l__box_right_new_dim=\dimen285
+\l__box_internal_box=\box58
+\l__coffin_internal_box=\box59
+\l__coffin_internal_dim=\dimen286
+\l__coffin_offset_x_dim=\dimen287
+\l__coffin_offset_y_dim=\dimen288
+\l__coffin_x_dim=\dimen289
+\l__coffin_y_dim=\dimen290
+\l__coffin_x_prime_dim=\dimen291
+\l__coffin_y_prime_dim=\dimen292
+\c_empty_coffin=\box60
+\l__coffin_aligned_coffin=\box61
+\l__coffin_aligned_internal_coffin=\box62
+\l_tmpa_coffin=\box63
+\l_tmpb_coffin=\box64
+\g_tmpa_coffin=\box65
+\g_tmpb_coffin=\box66
+\l__coffin_bounding_shift_dim=\dimen293
+\l__coffin_left_corner_dim=\dimen294
+\l__coffin_right_corner_dim=\dimen295
+\l__coffin_bottom_corner_dim=\dimen296
+\l__coffin_top_corner_dim=\dimen297
+\l__coffin_scaled_total_height_dim=\dimen298
+\l__coffin_scaled_width_dim=\dimen299
+\c__coffin_empty_coffin=\box67
+\l__coffin_display_coffin=\box68
+\l__coffin_display_coord_coffin=\box69
+\l__coffin_display_pole_coffin=\box70
+\l__coffin_display_offset_dim=\dimen300
+\l__coffin_display_x_dim=\dimen301
+\l__coffin_display_y_dim=\dimen302
+\g__file_internal_ior=\read2
+\l__seq_internal_a_int=\count305
+\l__seq_internal_b_int=\count306
+\c__deprecation_minus_one=\count307
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdfmo
+de.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_internal_box=\box71
+\l__driver_color_stack_int=\count308
+))
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count309
+\g__xparse_grabber_int=\count310
+\l__xparse_m_args_int=\count311
+\l__xparse_v_nesting_int=\count312
+) (document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count313
+\scratchdimen=\dimen303
+\scratchbox=\box72
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks48
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen304
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks49
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+f-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
+sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
+inekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
+keys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
+mds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
+tex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
+.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 36.
+LaTeX Font Info:    Try loading font information for U+msa on input line 38.
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
+"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 38.
+
+("C:\Users\eddurso\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<RMSEA_2fac_250_12items.pdf, id=28, 844.15375pt x 597.23125pt>
+File: RMSEA_2fac_250_12items.pdf Graphic file (type pdf)
+<use RMSEA_2fac_250_12items.pdf>
+Package pdftex.def Info: RMSEA_2fac_250_12items.pdf  used on input line 48.
+(pdftex.def)             Requested size: 448.50105pt x 317.31477pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 48--49
+ [] 
+ []
+
+<RMSEA_2fac_1000_12items.pdf, id=29, 844.15375pt x 597.23125pt>
+File: RMSEA_2fac_1000_12items.pdf Graphic file (type pdf)
+<use RMSEA_2fac_1000_12items.pdf>
+Package pdftex.def Info: RMSEA_2fac_1000_12items.pdf  used on input line 52.
+(pdftex.def)             Requested size: 448.50105pt x 317.31477pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 52--53
+ [] 
+ []
+
+[1
+
+{C:/Users/eddurso/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./RMSEA_2
+fac_250_12items.pdf>]
+<RMSEA_2fac_250_24items.pdf, id=44, 844.15375pt x 597.23125pt>
+File: RMSEA_2fac_250_24items.pdf Graphic file (type pdf)
+<use RMSEA_2fac_250_24items.pdf>
+Package pdftex.def Info: RMSEA_2fac_250_24items.pdf  used on input line 57.
+(pdftex.def)             Requested size: 448.50105pt x 317.31477pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 57--58
+ [] 
+ []
+
+[2 <./RMSEA_2fac_1000_12items.pdf>]
+<RMSEA_2fac_1000_24items.pdf, id=54, 844.15375pt x 597.23125pt>
+File: RMSEA_2fac_1000_24items.pdf Graphic file (type pdf)
+<use RMSEA_2fac_1000_24items.pdf>
+Package pdftex.def Info: RMSEA_2fac_1000_24items.pdf  used on input line 61.
+(pdftex.def)             Requested size: 448.50105pt x 317.31477pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 61--62
+ [] 
+ []
+
+[3 <./RMSEA_2fac_250_24items.pdf>]
+<CFI_2fac_250_12items.pdf, id=64, 844.15375pt x 597.23125pt>
+File: CFI_2fac_250_12items.pdf Graphic file (type pdf)
+<use CFI_2fac_250_12items.pdf>
+Package pdftex.def Info: CFI_2fac_250_12items.pdf  used on input line 68.
+(pdftex.def)             Requested size: 448.50105pt x 317.31477pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 68--69
+ [] 
+ []
+
+[4 <./RMSEA_2fac_1000_24items.pdf>]
+<CFI_2fac_1000_12items.pdf, id=74, 844.15375pt x 597.23125pt>
+File: CFI_2fac_1000_12items.pdf Graphic file (type pdf)
+<use CFI_2fac_1000_12items.pdf>
+Package pdftex.def Info: CFI_2fac_1000_12items.pdf  used on input line 72.
+(pdftex.def)             Requested size: 448.50105pt x 317.31477pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 72--73
+ [] 
+ []
+
+[5 <./CFI_2fac_250_12items.pdf>]
+<CFI_2fac_250_24items.pdf, id=84, 844.15375pt x 597.23125pt>
+File: CFI_2fac_250_24items.pdf Graphic file (type pdf)
+<use CFI_2fac_250_24items.pdf>
+Package pdftex.def Info: CFI_2fac_250_24items.pdf  used on input line 77.
+(pdftex.def)             Requested size: 448.50105pt x 317.31477pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 77--78
+ [] 
+ []
+
+[6 <./CFI_2fac_1000_12items.pdf>]
+<CFI_2fac_1000_24items.pdf, id=94, 844.15375pt x 597.23125pt>
+File: CFI_2fac_1000_24items.pdf Graphic file (type pdf)
+<use CFI_2fac_1000_24items.pdf>
+Package pdftex.def Info: CFI_2fac_1000_24items.pdf  used on input line 81.
+(pdftex.def)             Requested size: 448.50105pt x 317.31477pt.
+
+Overfull \hbox (103.50105pt too wide) in paragraph at lines 81--82
+ [] 
+ []
+
+[7 <./CFI_2fac_250_24items.pdf>] [8 <./CFI_2fac_1000_24items.pdf>]
+(document.aux) ) 
+Here is how much of TeX's memory you used:
+ 26339 strings out of 492895
+ 517235 string characters out of 3122801
+ 538138 words of memory out of 3000000
+ 29841 multiletter control sequences out of 15000+200000
+ 538801 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,5n,81p,442b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/eddurso/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmbx12.pfb><C:/Users/eddurso/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/eddurso/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/eddurso/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on document.pdf (8 pages, 100487 bytes).
+PDF statistics:
+ 128 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 149 words of extra memory for PDF output out of 10000 (max. 10000000)
+
